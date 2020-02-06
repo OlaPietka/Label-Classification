@@ -8,6 +8,6 @@ I built a label model that’s capable of detecting different types of animals l
 
 ## **Sample output images**
 <p align="center">
-  <img width="300" height="460" src="h(https://i.imgur.com/yCfDiFy.png">
+  <img width="300" height="460" src="https://i.imgur.com/yCfDiFy.png">
   <img width="300" height="460" src="https://i.imgur.com/7qCYaDG.png">
 </p>
