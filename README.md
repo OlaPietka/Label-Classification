@@ -1,7 +1,7 @@
 # Label Classification
 
 ## **Descirption** 
-I built a label model that’s capable of detecting different types of animals listed below:
+I built a label model that’s capable of detecting different types of animals listed below:  
 * Cat 
 * Dog
 * Rabbit
