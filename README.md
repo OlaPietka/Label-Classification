@@ -7,4 +7,7 @@ I built a label model that’s capable of detecting different types of animals l
 * Rabbit
 
 ## **Sample output images**
-![image](https://i.imgur.com/yCfDiFy.png) ![image](https://i.imgur.com/7qCYaDG.png)
+<p align="center">
+  <img width="460" height="300" src="h(https://i.imgur.com/yCfDiFy.png">
+  <img width="460" height="300" src="https://i.imgur.com/7qCYaDG.png">
+</p>
